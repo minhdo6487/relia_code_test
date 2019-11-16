@@ -6,10 +6,10 @@
 
 4. Please find main function at `find_products_packages.py`
 - sample input
-    is_ok, result = get_package([3, 5, 9], 13)
+    + is_ok, result = get_package([3, 5, 9], 13)
 - sample output
-    True, [(0, 9), (2, 5), (1, 3)]
-    with 3 items in list
+    + True, [(0, 9), (2, 5), (1, 3)]
+    + with 3 items in list
         (0, 9): 
             0 x 9 @ $16.99
         (2, 5):
